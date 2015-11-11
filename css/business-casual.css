@@ -4,8 +4,9 @@
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
 
+/*background photo taken from www.subtlepatterns.com*/
 body {
-    font-family: font-family: "Times New Roman", Times, serif;
+    font-family: "Times New Roman", Times, serif;
     background: url('../img/background.png') no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
