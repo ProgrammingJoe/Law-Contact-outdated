@@ -1,3 +1,59 @@
 .headerfont {
   font-size: 18px;
 }
+
+.float-left {
+  float: left;
+}
+
+.float-right {
+  float: right;
+}
+
+.center-text {
+  text-align: center;
+}
+
+#headerloc {
+  width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+.zero-border {
+  border: 0;
+}
+
+.street-border {
+  border: grey solid 1px;
+}
+
+#skillsummary {
+  width: 220px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.biocolumn {
+  width: 50%;
+  min-width: 400px;
+}
+
+.portrait {
+  width: 200px;
+  height: 200px;
+  margin: auto;
+}
+
+.educationlist {
+  width: 325px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.20indentleft {
+  margin-left: 20px;
+}
