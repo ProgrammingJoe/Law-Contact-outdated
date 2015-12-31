@@ -7,7 +7,7 @@
 /*background photo taken from www.subtlepatterns.com*/
 body {
     font-family: "Times New Roman", Times, serif;
-    background: url('../img/background.png') no-repeat center center fixed;
+    background-color: #424242;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
