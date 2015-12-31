@@ -1,3 +1,53 @@
+.skilllist {
+   width: 60%;
+   min-width: 350px;
+}
+
+.lawyerimgbox {
+   width: 40%;
+   min-width: 350px;
+   min-height: 186px;
+}
+
+.lawyerimg {
+  width: 414px;
+  height: 220px;
+}
+
+.profilebox {
+   width: 25%;
+   min-width: 270px;
+}
+
+.profileimg {
+   margin-right: 15px;
+   width: auto;
+   min-height: 322px;
+   min-width: 230px;
+   height: 322px;
+   width: 230px;
+   float: top;
+}
+
+.biobox {
+   width: 75%;
+   min-width: 270px;
+}
+
+.memberships {
+  overflow: hidden;
+  float: top;
+  margin-left: 8%;
+}
+
+.education {
+  float: left;
+  margin-left: 8%;
+  margin-right: 20px;
+  width: 325px;
+  display: block;
+}
+
 .headerfont {
   font-size: 18px;
 }
